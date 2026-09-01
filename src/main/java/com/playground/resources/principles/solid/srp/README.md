@@ -34,17 +34,17 @@ Pe scurt:
 
 ## Avantajele SRP
 
-✔ Cod mai clar și mai ușor de citit
-✔ Testare mai simplă, deoarece fiecare clasă are un rol unic
-✔ Modificări mai sigure — schimbarea unei reguli afectează o singură clasă
-✔ Reutilizare mai bună a componentelor
-✔ Extindere mai ușoară a aplicației
+- Cod mai clar și mai ușor de citit
+- Testare mai simplă, deoarece fiecare clasă are un rol unic
+- Modificări mai sigure — schimbarea unei reguli afectează o singură clasă
+- Reutilizare mai bună a componentelor
+- Extindere mai ușoară a aplicației
 
 ## Dezavantajele SRP
 
-✖ Numărul de clase din proiect crește
-✖ Poate părea, la început, o supra-fragmentare a codului
-✖ Necesită o proiectare atentă pentru a stabili corect granițele responsabilităților
+- Numărul de clase din proiect crește
+- Poate părea, la început, o supra-fragmentare a codului
+- Necesită o proiectare atentă pentru a stabili corect granițele responsabilităților
 
 ## Tabel comparativ
 
